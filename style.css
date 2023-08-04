@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+
+.clock{
+    align-items: center;
+    display: inline-block;
+    border: 2px solid white;
+    width: 115px;
+    color:gray;
+    background-color:skyblue;
+}
+
+
+.time{
+    color:black;
+align-items: center;
+    display: inline-block;
+    border: 2px solid white;
+    width: 100px;
+    background-color: red;
+    
+}
+
+.reset{
+text-align: center;
+background:blue;
+width:100px ;
+color: white;
+cursor: pointer;
+font-weight: bolder;
+
+}
+.reset:hover{
+    background-color: brown;
+}
+
+.start{
+    text-align: center;
+    background:blue;
+    width:100px ;
+    color: white;
+    cursor: pointer;
+    font-weight: bolder;
+    
+
+    
+}
+.start:hover{
+    background-color:yellow;
+    color: black;
+}
+.pause{
+    text-align: center;
+    background:blue;
+    width:100px ;
+    color: white;
+    cursor: pointer;
+    font-weight: bolder;
+    
+    
+
+}
+
+.pause:hover{
+    background-color:green;
+    color: black;
+}
